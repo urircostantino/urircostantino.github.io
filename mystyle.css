@@ -1,0 +1,12 @@
+body {
+    background:lightblue;
+}
+h1 {
+    color:darkblue;
+}
+
+#content {
+width: 800px;
+margin-left:auto;
+margin-right:auto;
+}
